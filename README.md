@@ -15,9 +15,12 @@ This Tableau dashboard offers an in-depth look at the following key metrics:
 ## How to Use the Dashboard
 
 To access the dashboard:
-1. Visit our [Tableau Public profile](#) ([Link to the Tableau dashboard](https://public.tableau.com/views/EmploymentandSalary_17084664722580/SalariesandJobsDashboard22?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)).
-2. Navigate through the interactive elements to filter data by location, experience, and sector.
-3. Use the tooltips for detailed information about specific data points on the visualizations.
+1. Visit the URL for the dashboard - https://public.tableau.com/app/profile/ganesh.kota2132/viz/EmploymentvsSalary/SalariesandJobsDashboard22
+2.
+3.
+4.    [Tableau Public profile](#) ([Link to the Tableau dashboard](https://public.tableau.com/views/EmploymentandSalary_17084664722580/SalariesandJobsDashboard22?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)).
+5. Navigate through the interactive elements to filter data by location, experience, and sector.
+6. Use the tooltips for detailed information about specific data points on the visualizations.
 
 ## Data Sources
 
